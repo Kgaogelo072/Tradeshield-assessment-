@@ -13,5 +13,6 @@ public class LongestSentanceTests
         //var input = $"We test coders. Give us a try";
         var outcome = LongestSentanceAnswer.Solution(input);
         Assert.AreEqual(2, outcome);
+        //Assert.AreEqual(4, outcome);
     }
 }

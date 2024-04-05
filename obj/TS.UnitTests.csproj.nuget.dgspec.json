@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Wits-user\\OneDrive\\Tradeshield\\TechnicalAssessment-main\\TechnicalAssessment-main\\TS.UnitTests\\TS.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Wits-user\\OneDrive\\Tradeshield\\TechnicalAssessment-main\\TechnicalAssessment-main\\TS.TechnicalTest\\TS.TechnicalTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wits-user\\OneDrive\\Tradeshield\\TechnicalAssessment-main\\TechnicalAssessment-main\\TS.TechnicalTest\\TS.TechnicalTest.csproj",
+        "projectName": "TS.TechnicalTest",
+        "projectPath": "C:\\Users\\Wits-user\\OneDrive\\Tradeshield\\TechnicalAssessment-main\\TechnicalAssessment-main\\TS.TechnicalTest\\TS.TechnicalTest.csproj",
+        "packagesPath": "C:\\Users\\Wits-user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wits-user\\OneDrive\\Tradeshield\\TechnicalAssessment-main\\TechnicalAssessment-main\\TS.TechnicalTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wits-user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Wits-user\\OneDrive\\Tradeshield\\TechnicalAssessment-main\\TechnicalAssessment-main\\TS.UnitTests\\TS.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wits-user\\OneDrive\\Tradeshield\\TechnicalAssessment-main\\TechnicalAssessment-main\\TS.UnitTests\\TS.UnitTests.csproj",
+        "projectName": "TS.UnitTests",
+        "projectPath": "C:\\Users\\Wits-user\\OneDrive\\Tradeshield\\TechnicalAssessment-main\\TechnicalAssessment-main\\TS.UnitTests\\TS.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Wits-user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wits-user\\OneDrive\\Tradeshield\\TechnicalAssessment-main\\TechnicalAssessment-main\\TS.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wits-user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Wits-user\\OneDrive\\Tradeshield\\TechnicalAssessment-main\\TechnicalAssessment-main\\TS.TechnicalTest\\TS.TechnicalTest.csproj": {
+                "projectPath": "C:\\Users\\Wits-user\\OneDrive\\Tradeshield\\TechnicalAssessment-main\\TechnicalAssessment-main\\TS.TechnicalTest\\TS.TechnicalTest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

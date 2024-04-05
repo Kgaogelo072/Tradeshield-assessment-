@@ -112,3 +112,4 @@ C:\Users\Wits-user\OneDrive\Tradeshield\TechnicalAssessment-main\TechnicalAssess
 C:\Users\Wits-user\OneDrive\Tradeshield\TechnicalAssessment-main\TechnicalAssessment-main\TS.UnitTests\obj\Debug\net8.0\TS.UnitTests.pdb
 C:\Users\Wits-user\OneDrive\Tradeshield\TechnicalAssessment-main\TechnicalAssessment-main\TS.UnitTests\obj\Debug\net8.0\TS.UnitTests.genruntimeconfig.cache
 C:\Users\Wits-user\OneDrive\Tradeshield\TechnicalAssessment-main\TechnicalAssessment-main\TS.UnitTests\obj\Debug\net8.0\ref\TS.UnitTests.dll
+C:\Users\Wits-user\OneDrive\Tradeshield\TechnicalAssessment-main\TechnicalAssessment-main\TS.UnitTests\obj\Debug\net8.0\TS.UnitTests.sourcelink.json
